@@ -34,6 +34,7 @@ variable "admin_username" {
   default     = "hashicorp"
 }
 
+
 variable "height" {
   default     = "400"
   description = "Image height in pixels."
